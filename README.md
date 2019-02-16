@@ -1,2 +1,2 @@
-# Computer-Networks-Course-Project
-Computer Networks Course Project
+# Computer-Graphics-Course-Project
+Computer-Graphics-Course-Project
